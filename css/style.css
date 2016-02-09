@@ -1,0 +1,55 @@
+.dc-chart g.row text {
+  fill:black;
+}
+
+.dc-chart g.row text.row.dim {
+  fill:grey;
+}
+
+.dc-chart .pie-slice {
+  fill:black;
+}
+
+.dc-chart .pie-slice path {
+  stroke: white;
+}
+
+legend {
+  margin-bottom: 5px;
+}
+
+.dc-data-count{
+  float: none;
+}
+.output-row {
+  font-weight: bold;
+  font-size: 15px;
+  }
+
+legend {
+  font-size: 18px
+}
+
+/*
+td.dc-table-column_1{
+  max-width:50px
+}
+*/
+
+/*
+td{
+  max-width:500px
+}
+*/
+
+i.fa-times{
+  color: red;    
+}
+
+i.fa-times.noFilter{
+  color: #b7b7b7
+}
+
+.invisible_tick{
+  display: none
+}
